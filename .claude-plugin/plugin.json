@@ -1,0 +1,10 @@
+{
+  "name": "backstage-skills-plugin",
+  "description": "A collection of skills for Backstage",
+  "version": "1.0.0",
+  "author": {
+    "name": "Andrew McLachlan"
+  },
+  "license": "Apache-2.0",
+  "keywords": ["backstage", "catalog", "catalog-info", "skills"]
+}
